@@ -9,11 +9,12 @@ Base de Datos
 ## Alumno
 Fabrizio Sanchez
 
-## Descripción
-Proyecto realizado utilizando Git y Github para administrar versiones y trabajo colaborativo.
-
-## Herramientas utilizadas
-- Git
-- Github
-- Git Bash
-- Visual Studio Code
+## Caracteristicas
+- Registro de clientes.
+- Gestión de turnos.
+- Administración de servicios de peluquería.
+- Control de empleados.
+- Registro de pagos y ventas.
+- Interfaz sencilla y fácil de utilizar.
+- Uso de Git y Github para control de versiones.
+- Trabajo colaborativo mediante commits y ramas.
